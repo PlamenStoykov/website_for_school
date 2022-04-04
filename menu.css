@@ -13,7 +13,7 @@
 .home_button {
     height: 70px;
     width: 90px;
-    background-color: #bb5511;
+    background-color: #edcdbb;
     border-radius: 20%;
     position: absolute;
     left: 800px;
@@ -29,7 +29,7 @@
 .home_button_two {
     height: 70px;
     width: 90px;
-    background-color: #bb5511;
+    background-color: #edcdbb;
     border-radius: 20%;
     position: absolute;
     left: 1000px;
@@ -45,7 +45,7 @@
 .home_button_three {
     height: 70px;
     width: 90px;
-    background-color: #bb5511;
+    background-color: #edcdbb;
     border-radius: 20%;
     position: absolute;
     left: 1200px;

@@ -56,4 +56,33 @@
     position: absolute;
     left: 1217px;
     top: 60px;
+
+}
+.big_window {
+    height: 300px;
+    width: 350px;
+    background-color: #3a3a3a;
+    border-radius: 20%;
+    position: absolute;
+    top: 390px;
+    left: 265px;
+}
+@font-face {
+    font-family: Rubik Moonrocks;
+    src: url(images/RubikMoonrocks-Regular.ttf);
+}
+.header {
+    position: absolute;
+    top: 10px;
+    left: 410px;
+    font-size: 40px;
+    font-family: Rubik Moonrocks; 
+}
+.content {
+    position: absolute;
+    top: 450px;
+    left: 253px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
 }

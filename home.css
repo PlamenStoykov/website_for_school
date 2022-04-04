@@ -53,3 +53,75 @@
     left: 1217px;
     top: 60px;
 }
+.big_image {
+    position: absolute;
+    top: 990px;
+}
+.mission_rec {
+    height: 200px;
+    width: 350px;
+    background-color: white;
+    border-radius: 15%;
+    position: absolute;
+    top: 1100px;
+    left: 50px;
+}
+.mission {
+    position: absolute;
+    top: 1080px;
+    left: 150px;
+    font-size: 30px;
+
+}
+.mission_content {
+    position: absolute;
+    top: 1150px;
+    left: 100px;
+    font-size: 15px;
+}
+.vision_rec {
+    height: 200px;
+    width: 350px;
+    background-color: white;
+    border-radius: 15%;
+    position: absolute;
+    top: 1320px;
+    left: 50px;
+}
+
+.vision {
+    position: absolute;
+    top: 1310px;
+    left: 150px;
+    font-size: 30px;
+}
+
+.vision_content {
+    position: absolute;
+    top: 1380px;
+    left: 100px;
+    font-size: 15px;
+}
+.values_rec {
+    height: 200px;
+    width: 350px;
+    background-color: white;
+    border-radius: 15%;
+    position: absolute;
+    top: 1540px;
+    left: 50px;
+}
+
+.values {
+    position: absolute;
+    top: 1520px;
+    left: 150px;
+    font-size: 30px;
+}
+
+.values_content {
+    position: absolute;
+    top: 1580px;
+    left: 100px;
+    font-size: 15px;
+}

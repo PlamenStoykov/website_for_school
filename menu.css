@@ -57,3 +57,57 @@
     left: 1217px;
     top: 60px;
 }
+@font-face {
+    font-family: Rubik Moonrocks;
+    src: url(images/RubikMoonrocks-Regular.ttf);
+}
+
+.header {
+    position: absolute;
+    top: 10px;
+    left: 410px;
+    font-size: 40px;
+    font-family: Rubik Moonrocks;
+}
+.pizza {
+    position: absolute;
+    color: white;
+    top: 150px;
+    left: 1040px;
+    font-size: 30px;
+}
+.pizza_menu {
+    position: absolute;
+    color: white;
+    top: 210px;
+    left: 835px;
+    font-size: 18px;
+}
+.salads {
+    position: absolute;
+    color: white;
+    top: 430px;
+    left: 1037px;
+    font-size: 30px;
+}
+.salads_menu {
+    position: absolute;
+    color: white;
+    top: 490px;
+    left: 835px;
+    font-size: 18px;
+}
+.dessert {
+    position: absolute;
+    color: white;
+    top: 705px;
+    left: 1030px;
+    font-size: 30px;
+}
+.desserts_menu {
+    position: absolute;
+    color: white;
+    top: 760px;
+    left: 835px;
+    font-size: 18px;
+}

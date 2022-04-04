@@ -1,34 +1,55 @@
-/* Add a black background color to the top navigation */
 .topnav {
-    background-color: black;
-    
+    height: 130px;
+    width: 100%;
+    background-color: #EFE6DD;
 }
-
-    /* Style the links inside the navigation bar */
-    .topnav a {
-        position: absolute;
-        float: left;
-        color: #f2f2f2;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 17px;
-    }
-
-        /* Change the color of links on hover */
-        .topnav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-
-        /* Add a color to the active/current link */
-        .topnav a.active {
-            background-color: #04AA6D;
-            color: black;
-        }
-
-}
-.home{
+.logo {
     position: absolute;
-    border
+    top: 30px;
+    left: 80px;
+}
+
+.home_button {
+    height: 70px;
+    width: 90px;
+    background-color: #bb5511;
+    border-radius: 20%;
+    position: absolute;
+    left: 800px;
+    top: 37px;
+}
+.home {
+    position: absolute;
+    left: 825px;
+    top: 60px;
+}
+.home_button_two {
+    height: 70px;
+    width: 90px;
+    background-color: #bb5511;
+    border-radius: 20%;
+    position: absolute;
+    left: 1000px;
+    top: 37px;
+}
+
+.home_two {
+    position: absolute;
+    left: 1025px;
+    top: 60px;
+}
+.home_button_three {
+    height: 70px;
+    width: 90px;
+    background-color: #bb5511;
+    border-radius: 20%;
+    position: absolute;
+    left: 1200px;
+    top: 37px;
+}
+
+.home_three {
+    position: absolute;
+    left: 1217px;
+    top: 60px;
 }

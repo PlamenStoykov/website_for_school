@@ -1,0 +1,59 @@
+.topnav {
+    height: 130px;
+    width: 100%;
+    background-color: #EFE6DD;
+}
+
+.logo {
+    position: absolute;
+    top: 30px;
+    left: 80px;
+}
+
+.home_button {
+    height: 70px;
+    width: 90px;
+    background-color: #bb5511;
+    border-radius: 20%;
+    position: absolute;
+    left: 800px;
+    top: 37px;
+}
+
+.home {
+    position: absolute;
+    left: 825px;
+    top: 60px;
+}
+
+.home_button_two {
+    height: 70px;
+    width: 90px;
+    background-color: #bb5511;
+    border-radius: 20%;
+    position: absolute;
+    left: 1000px;
+    top: 37px;
+}
+
+.home_two {
+    position: absolute;
+    left: 1025px;
+    top: 60px;
+}
+
+.home_button_three {
+    height: 70px;
+    width: 90px;
+    background-color: #bb5511;
+    border-radius: 20%;
+    position: absolute;
+    left: 1200px;
+    top: 37px;
+}
+
+.home_three {
+    position: absolute;
+    left: 1217px;
+    top: 60px;
+}
